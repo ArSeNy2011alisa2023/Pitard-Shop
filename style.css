@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+.shapka{
+    background-color: #000080;
+    color: white;
+}
+.info{
+    border:1px solid white;
+    color:white;
+}
+h1{
+    color:orangered;
+    text-align: center;
+}
+footer{
+    background:pink;
+}
+nav a{
+    background-color: darkgreen;
+    margin-right: 20px;
+    color:white;
+    text-decoration: none;
+    
+}
+
+nav{
+    background-color: darkgreen;
+    text-align: center;
+}
+.text{
+    background-color: lightgreen;
+    }
+.res{
+    text-align: center;
+    height: 100px;
+    color: rgb(255, 0, 0);
+    background-color: orange;
+}
